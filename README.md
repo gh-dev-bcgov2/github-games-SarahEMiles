@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+<img width="915" alt="image" src="https://github.com/user-attachments/assets/bf2e318b-df90-468c-8838-dc113647a04a" />## Welcome to GitHub Games
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
